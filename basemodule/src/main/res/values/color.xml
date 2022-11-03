@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#1e88e5</color>
+    <color name="colorPrimaryDark">#1976d2</color>
+
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+
+    <color name="red_900">#b71c1c</color>
+    <color name="red_800">#c62828</color>
+    <color name="red_700">#d32f2f</color>
+    <color name="red_600">#e53935</color>
+    <color name="red_500">#f44336</color>
+    <color name="red_400">#ef5350</color>
+    <color name="red_300">#e57373</color>
+    <color name="red_200">#ef9a9a</color>
+
+    <color name="blue_900">#0d47a1</color>
+    <color name="blue_800">#1565c0</color>
+    <color name="blue_700">#1976d2</color>
+    <color name="blue_600">#1e88e5</color>
+    <color name="blue_500">#2196f3</color>
+    <color name="blue_400">#42a5f5</color>
+    <color name="blue_300">#64b5f6</color>
+    <color name="blue_200">#90caf9</color>
+
+    <color name="light_blue_900">#01579b</color>
+    <color name="light_blue_800">#0277bd</color>
+    <color name="light_blue_700">#0288d1</color>
+    <color name="light_blue_600">#039be5</color>
+    <color name="light_blue_500">#03a9f4</color>
+    <color name="light_blue_400">#29b6f6</color>
+    <color name="light_blue_300">#4fc3f7</color>
+    <color name="light_blue_200">#81d4fa</color>
+
+    <color name="green_900">#1b5e20</color>
+    <color name="green_800">#2e7d32</color>
+    <color name="green_700">#388e3c</color>
+    <color name="green_600">#43a047</color>
+    <color name="green_500">#4caf50</color>
+    <color name="green_400">#66bb6a</color>
+    <color name="green_300">#81c784</color>
+    <color name="green_200">#a5d6a7</color>
+
+    <color name="light_green_100">#ccff90</color>
+
+    <color name="yellow_900">#f57f17</color>
+    <color name="yellow_800">#f9a825</color>
+    <color name="yellow_700">#fbc02d</color>
+    <color name="yellow_600">#fdd835</color>
+    <color name="yellow_500">#ffeb3b</color>
+    <color name="yellow_400">#ffee58</color>
+    <color name="yellow_300">#fff176</color>
+    <color name="yellow_200">#fff59d</color>
+
+    <color name="gray">#e0e0e0</color>
+    <color name="gray_txt">#424242</color>
+    <color name="background">#f5f5f5</color>
+</resources>
