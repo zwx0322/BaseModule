@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.smartxin.baselibrary">
+    <application>
+
+        <activity
+            android:name="com.smartxin.baselibrary.ui.picture.ShowPictureActivity"
+            android:configChanges="orientation|keyboardHidden|screenSize"
+            android:exported="true" />
+    </application>
+
+</manifest>

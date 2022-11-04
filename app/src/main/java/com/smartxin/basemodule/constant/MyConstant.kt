@@ -1,6 +1,6 @@
 package com.smartxin.basemodule.constant
 
-import com.smartxin.basemodule.bean.BtnGroup
+import com.smartxin.baselibrary.bean.BtnGroup
 
 /**
  *     Author: zhengwenxin
